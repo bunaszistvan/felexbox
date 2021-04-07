@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    
+<style>
+    
+    
+.flex-container {
+  display:list-item;
+  background-color:whitesmoke;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 20px;
+  padding: 30px;
+  font-size: 35px;
+  text-align: center;
+  background-color:whitesmoke;
+  
+}
+</style>
+</head>
+<body>
+
+<div class="flex-container">
+  <div>
+    <a href="https://bunaszistvan.github.io/eddigimunka/">Eddigi munka</a>
+    <p></p>
+  </div>
+  <div>
+    <a href="https://bunaszistvan.github.io/hardwershop/">Hardwershop</a>
+  </div>
+  <div>
+    <a href="https://bunaszistvan.github.io/Tisza/">Tisza</a>
+  </div> 
+  <div>
+    <a href="https://bunaszistvan.github.io/voyager/">Voyager</a>
+  </div> 
+  <div>
+    <a href="https://bunaszistvan.github.io/Nyomtatas/">Nyomtatás</a>
+  </div>
+  <div>
+    <a href="https://bunaszistvan.github.io/javascript/">Javascript</a>
+  </div>
+  <div>
+    <a href="https://github.com/bunaszistvan/java">Java</a>
+  </div>
+</div>
+
+<p><em></em></p>
+
+<p></p>
+
+</body>
+</html>
